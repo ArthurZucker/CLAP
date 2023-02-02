@@ -1,5 +1,13 @@
 # CLAP
 
+
+# Installing the code: 
+The following command should allow you to work with the code outside of this repo: 
+```bash
+pip install git+https://github.com/ArthurZucker/CLAP.git@install-package
+```
+
+
 Contrastive Language-Audio Pretraining, known as CLAP. Referring to the CLIP (Contrastive Language-Image Pretraining) architecture, similarly, the CLAP architecture is as follows.  
 <p align="center">
   <img src="./assets/audioclip-arch.png" alt="The Contrastive Language-Audio Pretraining Model Architecture" width="60%"/>
